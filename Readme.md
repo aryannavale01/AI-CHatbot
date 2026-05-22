@@ -16,3 +16,6 @@ This chatbot leverages AI technology to provide interactive conversations and in
 - `main.py` - Application entry point
 - `config.py` - Configuration settings
 - `requirements.txt` - Project dependencies
+
+## Author
+Aryan Navale
